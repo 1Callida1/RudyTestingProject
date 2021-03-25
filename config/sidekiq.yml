@@ -1,0 +1,4 @@
+:schedule:
+  diary_cleaner_worker:
+    every: "10m"
+    class: DiaryCleanerWorker
