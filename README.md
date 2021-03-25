@@ -7,8 +7,8 @@ First ruby project for testing
     4. sudo docker-compose up
     5. rails db:setup
 ## Running
-    2. rails s
-    3. sidekiq
+    1. rails s
+    2. sidekiq
 ## Sidekiq login
     - login: admin
     - password: 12345
